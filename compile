@@ -1,0 +1,2 @@
+#!/bin/sh
+exec gcc main.c -o main -lSDL2
